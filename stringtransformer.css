@@ -1,0 +1,31 @@
+
+.string {
+  width: 120vh;
+  padding: 16px;
+  margin: 2rem;
+  border-radius: 2px;
+  font-size: 20px;
+}
+.unchange {
+  border-radius: 10px;
+  padding: 18px;
+  margin: 2rem;
+  background-color: #f4f4a1;
+  width: 120vh;
+  position: relative;
+}
+span {
+  display: flex;
+  margin-top: -2rem;
+  width: 90px;
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding: 3px;
+}
+.unchange p {
+  margin: 6px 4px 0px 4px;
+  font-size: 20px;
+}
+    
+ 
